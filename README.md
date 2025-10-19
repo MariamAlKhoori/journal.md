@@ -13,3 +13,18 @@ Basic designs for the robot were drawn.
 
  
 The body of the robot is assembled using wood and cardboard
+
+
+
+# October 8th
+
+Body Complete
+
+Arms built
+
+
+
+# October 9th
+
+Arm motors assembled
+
