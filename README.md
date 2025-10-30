@@ -58,7 +58,7 @@ Completed: Coding for the arm motors has been successfully achieved. Some errors
 To get done: 
 * - Attach the servo motors to the ears before attaching the ears to the head
 * - Code ear movement
-:heavy_check_mark: * - Code and test the channels and receiver
+* - Code and test the channels and receiver ✔️
  
 To consider:
 - Code eyes with the neopixels
