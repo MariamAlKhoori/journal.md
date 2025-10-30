@@ -51,3 +51,20 @@ Arm motors assembled.
 Head is a WIP. Planning to add moving ears and an LED for the eye.
 
 Completed: Coding for the arm motors has been successfully achieved. Some errors occurred, but after checking on the pins and fixing it to the appropriate pin, it worked well. 
+
+
+# October 30th
+
+To get done: 
+* - Attach the servo motors to the ears before attaching the ears to the head
+* - code ear movement
+- code eyes with the neopixels
+- Code in robot commands 
+* - code and test the channels and receiver
+
+  Mariam and Joy's Channel 50, addr = 0x7c
+  
+
+
+
+
