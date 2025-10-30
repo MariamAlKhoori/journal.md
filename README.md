@@ -57,10 +57,14 @@ Completed: Coding for the arm motors has been successfully achieved. Some errors
 
 To get done: 
 * - Attach the servo motors to the ears before attaching the ears to the head
-* - code ear movement
-- code eyes with the neopixels
+* - Code ear movement
+* - Code and test the channels and receiver
+ 
+To consider:
+- Code eyes with the neopixels
 - Code in robot commands 
-* - code and test the channels and receiver
+- Plug music maker sheet
+- Robot fabrications
 
   Mariam and Joy's Channel 50, addr = 0x7c
   
