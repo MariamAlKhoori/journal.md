@@ -72,8 +72,8 @@ To consider:
 # November 6th
 
 Done this week:
--music maker shield 
--reharselas 
+- Music Maker Shield 
+- Reharselas 
 
 Issues faced:
 - The robot is not balanced when driving around 
