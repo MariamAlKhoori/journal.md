@@ -69,6 +69,27 @@ To consider:
   Mariam and Joy's Channel 50, addr = 0x7c
   
 
+# November 6th
+
+Done this week:
+-music maker shield 
+-reharselas 
+
+Issues faced:
+-robot is not balanced when drivin around 
+-one arm fell off
+-music maker shield took some time to fix
+-neopixles 
+
+To fix and do by next week:
+-code the neopixles expressions 
+-robot movement speed (robot balance)
+
+
+To consider:
+-Props & Costume Loan
+-Script revision
+
 
 
 
