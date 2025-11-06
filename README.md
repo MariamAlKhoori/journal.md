@@ -76,19 +76,19 @@ Done this week:
 -reharselas 
 
 Issues faced:
--robot is not balanced when drivin around 
--one arm fell off
--music maker shield took some time to fix
--neopixles 
+- The robot is not balanced when driving around 
+- one arm fell off
+- Music Maker Shield took some time to fix
+- neopixles 
 
 To fix and do by next week:
--code the neopixles expressions 
--robot movement speed (robot balance)
+- ode the neopixles expressions 
+- robot movement speed (robot balance)
 
 
 To consider:
--Props & Costume Loan
--Script revision
+- Props & Costume Loan
+- Script revision
 
 
 
