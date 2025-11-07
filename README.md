@@ -74,7 +74,8 @@ To consider:
 Done this week:
 - Music Maker Shield 
 - Reharselas 
-
+- neopixles
+  
 Issues faced:
 - The robot is not balanced when driving around 
 - one arm fell off
@@ -82,8 +83,10 @@ Issues faced:
 - neopixles 
 
 To fix and do by next week:
-- ode the neopixles expressions 
+- code the Neopixel expressions 
 - robot movement speed (robot balance)
+- Try to code in commands connected by the controller
+  
 
 
 To consider:
