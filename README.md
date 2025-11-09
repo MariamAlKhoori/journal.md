@@ -14,28 +14,28 @@ Basic designs for the robot were drawn.
 - Design idea: Cat lady. Her potential design hints towards the different sides and characters she might represent.  
 - Ideas to consider: Adding a frying pan in one hand and a moving fan in the other.  
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/c0b0d0c6-732e-4e25-9881-d42586ba24c7" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/c0b0d0c6-732e-4e25-9881-d42586ba24c7" />
 
 The robot's body is assembled from wood and cardboard. We hope to achieve a more shaped figure as we progress.
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/1b4c6ab7-223d-4286-ad2a-42fd2286efa2" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/1b4c6ab7-223d-4286-ad2a-42fd2286efa2" />
 
 # October 8th
 
 Body Complete  
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/d4b9fb84-88de-4a57-9072-6e737de54ec4" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/d4b9fb84-88de-4a57-9072-6e737de54ec4" />
 
 Arms built  
 - missing: the elements that define each arm.
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/915d4ac3-4a50-4b35-ae99-cc600ae742da" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/915d4ac3-4a50-4b35-ae99-cc600ae742da" />
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/7683bc61-342a-4301-be0b-1a043e8f0181" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/7683bc61-342a-4301-be0b-1a043e8f0181" />
 
 # October 9th
 
-<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/bce52ea6-b83a-4063-88e7-56c8012b176e" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/bce52ea6-b83a-4063-88e7-56c8012b176e" />
 
 Arm motors assembled.  
 
