@@ -24,18 +24,18 @@ The robot's body is assembled from wood and cardboard. We hope to achieve a more
 
 Body Complete  
 
-<img width="1209" height="1613" alt="Image" src="https://github.com/user-attachments/assets/d4b9fb84-88de-4a57-9072-6e737de54ec4" />
+<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/d4b9fb84-88de-4a57-9072-6e737de54ec4" />
 
 Arms built  
 - missing: the elements that define each arm.
 
-<img width="1209" height="1613" alt="Image" src="https://github.com/user-attachments/assets/915d4ac3-4a50-4b35-ae99-cc600ae742da" />
+<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/915d4ac3-4a50-4b35-ae99-cc600ae742da" />
 
-<img width="1209" height="1613" alt="Image" src="https://github.com/user-attachments/assets/7683bc61-342a-4301-be0b-1a043e8f0181" />
+<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/7683bc61-342a-4301-be0b-1a043e8f0181" />
 
 # October 9th
 
-<img width="1209" height="1613" alt="Image" src="https://github.com/user-attachments/assets/bce52ea6-b83a-4063-88e7-56c8012b176e" />
+<img width="667" height="955" alt="Image" src="https://github.com/user-attachments/assets/bce52ea6-b83a-4063-88e7-56c8012b176e" />
 
 Arm motors assembled.  
 
