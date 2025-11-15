@@ -80,4 +80,24 @@ To fix and do by next week:
 
 To consider:  
 - Props & Costume Loan  
-- Script revision  
+- Script revision
+
+# November 15th 
+
+Done
+- Robot balance
+- Arm attachment
+- Nose shape
+
+To Do
+- script voicing
+- Coding speed of the robot
+- controller commands
+- Ear design
+- Ear attachemnt
+
+To consider:  
+- Hands props attachment
+- Painting face
+- neopixles face codes
+  
