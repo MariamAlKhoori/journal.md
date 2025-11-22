@@ -94,10 +94,25 @@ To Do
 - Coding speed of the robot
 - controller commands
 - Ear design
-- Ear attachemnt
+- Ear attachment
 
 To consider:  
 - Hands props attachment
 - Painting face
-- neopixles face codes
+- Neopixel face codes
+
+# November 21st-22nd
+
+For elevenlabs, since we don’t have a subscription, we internally record every sound, so if we want to add more, we might need to use another laptop, cause there’s a trial limit cookie for how many times an unlogged user can use
+
+For neopixels, Joy spent so much time for better results, it’s good enough if we look at it from an audience distance, besides the Monroe one. Also made a sprite of an anime girl in the code that we might comment out to use(attached for reference)
+
+For arms, all cases are matching the flow of the play now. We just need to do a for loop for the waving arms dance move
+
+For the battery, we might need to clarify how we allocate each with Prof, and ask for a new one
+
+For wheels, we referenced others' code and flipped everything as the supposed front side for the code and the hobby motor. Now it’s much more balanced, and now we have a toggle handle for driving and wheels for turning
+
+Ears motor attachment is done, we just need to code it in the proper position and add it to the cases.
+
   
