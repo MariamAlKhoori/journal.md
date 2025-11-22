@@ -115,4 +115,13 @@ For wheels, we referenced others' code and flipped everything as the supposed fr
 
 Ears motor attachment is done, we just need to code it in the proper position and add it to the cases.
 
+
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/b72bd2c8-534c-4982-ba75-d7a3f7769421" />
+
+
+
+
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/d201df2c-e3d8-43f8-91e0-163921f998ca" />
+
+
   
