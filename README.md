@@ -124,13 +124,14 @@ Ears motor attachment is done, we just need to code it in the proper position an
 <img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/d201df2c-e3d8-43f8-91e0-163921f998ca" />
 
 
-SHOULD BE DONE BY 28 NOV
+**SHOULD BE DONE BY 28 NOV**
+
 - attach head 
 - cases
 - ears (done)
 - sprites (done)
-- sound clips
+- sound clips (done)
 - clothing
 - paint hands and face (done)
-- wire management
+- wire management (done just needs checking with prof)
 
