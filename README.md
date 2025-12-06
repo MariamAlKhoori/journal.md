@@ -133,5 +133,30 @@ Ears motor attachment is done, we just need to code it in the proper position an
 - sound clips (done)
 - clothing
 - paint hands and face (done)
-- wire management (done just needs checking with prof)
+- wire management (done, needs checking with prof)
 
+
+# December 6th
+
+**Test Trials documentation**
+
+Test 1: 
+- Change the hobby for forward and backward
+- Arm motors are still not attached properly to the arms 
+
+Test 2: 
+- fixed the hobby for forward and backward
+- Face Neopixels did not turn on
+
+Test 3: 
+- Fixed face Neopixels 
+- Replace the plastic horn with a metal one for better arm grip.
+  
+cases check
+- Case 17, 21, 22 did not work
+
+Test 4
+- All cases seems to work 
+
+Tesr 5
+- All audio is off
