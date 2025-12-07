@@ -153,10 +153,30 @@ Test 3:
 - Replace the plastic horn with a metal one for better arm grip.
   
 cases check
-- Case 17, 21, 22 did not work
+- Cases 17, 21, and 22 did not work
 
 Test 4
-- All cases seems to work 
+- All cases seem to work 
 
-Tesr 5
+Test 5
 - All audio is off
+
+  
+ # December 7th
+ 
+CASE TESTING
+ - test 1: works ✅
+ - test 2: works ✅
+ - test 3: works ✅
+ - test 4: works ✅
+ - test 5: works ✅
+
+   disconnected everthing and CASE TESTED again after awhile
+   - test 1: ✅
+   - test 2: ✅
+
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/63776d56-ac8a-4537-aa1c-50b11371fd7c" />
+
+
+
+
