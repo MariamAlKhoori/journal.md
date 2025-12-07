@@ -171,11 +171,11 @@ CASE TESTING
  - test 4: works ✅
  - test 5: works ✅
 
-   disconnected everthing and CASE TESTED again after awhile
+   disconnected everything and CASE TESTED again after a while
    - test 1: ✅
    - test 2: ✅
 
-<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/63776d56-ac8a-4537-aa1c-50b11371fd7c" />
+<img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/ff2d6865-f134-4d89-a888-161f682e4bfd" />
 
 
 
