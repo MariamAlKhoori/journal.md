@@ -175,7 +175,38 @@ CASE TESTING
    - test 1: ✅
    - test 2: ✅
 
+  At the end we changed another arduino for the transmitter, so if you could come you could test cases to see if the transmitter is still restart or not
+   
+
 <img width="417" height="597" alt="Image" src="https://github.com/user-attachments/assets/ff2d6865-f134-4d89-a888-161f682e4bfd" />
+
+ # December 8th
+ to do: fix slides export to prof
+fix servo 
+add cases for exclamation
+put in audio 
+fix hair
+fix costume
+charge battery
+look for all the screw and bolts
+
+ Final check over wheels and cases.
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f2b4f1cb-7ac9-4419-9225-76fb6fe5f84f" />
+
+
+
+
+ # December 9th IM SHOWCASE + THE DAY !!!
+
+ Right before the showcase we went through multiple trials and thankfully everthing worked well and we were all set for the tonight performance. 
+
+ 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c830db27-4d64-48ba-8f72-1a36a3ab1b70" />
+
+
+
+
+
 
 
 
